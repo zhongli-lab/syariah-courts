@@ -1,0 +1,76 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+
+- title: Who We Are
+  url: /who-we-are/history/
+  sub-links:
+  - title: History
+    url: /who-we-are/history/
+  - title: Vision
+    url: /who-we-are/vision/
+  - title: Mission
+    url: /who-we-are/mission/
+  - title: Philosophy
+    url: /who-we-are/philosophy/
+  - title: Jurisdiction
+    url: /who-we-are/jurisdiction/
+  - title: Organisation Chart
+    url: /who-we-are/organisation-chart/
+- title: Ininheritance
+  url: /ininheritance/overview/
+  sub-links:
+  - title: Overview
+    url: /ininheritance/overview/
+  - title: Online Guide
+    url: /ininheritance/online-guide/
+  - title: Online Trial Calculation
+    url: /ininheritance/online-trial-calculation/
+  - title: Online Application For Inheritance
+    url: /ininheritance/online-application-for-inheritance/
+  - title: Collection Of Certificate
+    url: /ininheritance/collection-of-certificate/
+  - title: Request For Certificate Extract For Inheritance Certificate
+    url: /ininheritance/request-for-certificate-extract-for-inheritance-certificate/
+  - title: Sample Of Statutory Declaration
+    url: /ininheritance/sample-of-statutory-declaration/
+- title: Divorce
+  url: /divorce/process/
+  sub-links:
+  - title: Process
+    url: /divorce/process/
+  - title: Forms
+    url: /divorce/forms/
+  - title: Fees
+    url: /divorce/fees/
+  - title: Videos
+    url: /divorce/videos/
+- title: Resources
+  url: /resources/links/
+  sub-links:
+  - title: Links
+    url: /resources/links/
+  - title: General Information
+    url: /resources/general-information/
+  - title: Programmes
+    url: /resources/programmes/
+  - title: For Lawyers
+    url: /resources/for-lawyers/
+  - title: For Partners
+    url: /resources/for-partners/
+  - title: FAQs
+    url: /resources/FAQs/
+- title: Media
+  url: /media/
+  sub-links:
+  - title: All
+    url: /media/
+  - title: Publications
+    url: /media/publications/
+  - title: Papers And Articles
+    url: /media/papers-and-articles/
+- title: Contact Us
+  url: /contact-us/

@@ -1,0 +1,40 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+# Favicon
+favicon: /images/logo.png
+
+# Agency logo
+agency-logo: /images/logo.png
+
+# AskJamie
+ask-jamie: non-empty string
+
+# Hero Banner
+hero-title: A reliable, dynamic and just court
+hero-subtitle: Which inspires confidence
+hero-banner: /images/hero-banner.png
+
+#Call to Action Button
+button:
+  - text: Learn More
+    url: /who-we-are/
+
+key-highlights:
+  - title: Inheritance
+    description: Online Guide
+    url: https://google.com
+  - title: Divorce
+    description: Process and Proceedings
+    url: https://yahoo.com
+  - title: Latest Papers and Articles
+    description: Get the latest newlines
+    url: /page-A/
+
+resources-title: Resources
+resources-subtitle: Be in the know
+resources-more-button: More Resources
+resources-more-button-url: media/
