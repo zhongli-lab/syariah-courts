@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Online Trial Calculation
-permalink: /ininheritance/online-trial-calculation/
+permalink: /inheritance/online-trial-calculation/
 breadcrumb: Online Trial Calculation
-collection_name: ininheritance
+collection_name: inheritance
 ---
