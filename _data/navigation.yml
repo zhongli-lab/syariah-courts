@@ -20,23 +20,23 @@
     url: /who-we-are/jurisdiction/
   - title: Organisation Chart
     url: /who-we-are/organisation-chart/
-- title: Ininheritance
-  url: /ininheritance/overview/
+- title: Inheritance
+  url: /inheritance/overview/
   sub-links:
   - title: Overview
-    url: /ininheritance/overview/
+    url: /inheritance/overview/
   - title: Online Guide
-    url: /ininheritance/online-guide/
+    url: /inheritance/online-guide/
   - title: Online Trial Calculation
-    url: /ininheritance/online-trial-calculation/
+    url: /inheritance/online-trial-calculation/
   - title: Online Application For Inheritance
-    url: /ininheritance/online-application-for-inheritance/
+    url: /inheritance/online-application-for-inheritance/
   - title: Collection Of Certificate
-    url: /ininheritance/collection-of-certificate/
+    url: /inheritance/collection-of-certificate/
   - title: Request For Certificate Extract For Inheritance Certificate
-    url: /ininheritance/request-for-certificate-extract-for-inheritance-certificate/
+    url: /inheritance/request-for-certificate-extract-for-inheritance-certificate/
   - title: Sample Of Statutory Declaration
-    url: /ininheritance/sample-of-statutory-declaration/
+    url: /inheritance/sample-of-statutory-declaration/
 - title: Divorce
   url: /divorce/process/
   sub-links:
