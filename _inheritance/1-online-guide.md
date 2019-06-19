@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Online Guide
-permalink: /ininheritance/online-guide/
+permalink: /inheritance/online-guide/
 breadcrumb: Online Guide
-collection_name: ininheritance
+collection_name: inheritance
 ---
 
 On-line Guides:
