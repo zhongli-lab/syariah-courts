@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Overview
-permalink: /ininheritance/overview/
+permalink: /inheritance/overview/
 breadcrumb: Overview
-collection_name: ininheritance
+collection_name: inheritance
 ---
 The Syariah Court has jurisdiction over the method of distribution of a deceased person's estate among his next of kin in accordance with Islamic law, as provided for under sections 112 and 115 of the Administration of Muslim Law Act.
 
