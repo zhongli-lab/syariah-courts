@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Collection Of Certificate
-permalink: /ininheritance/collection-of-certificate/
+permalink: /inheritance/collection-of-certificate/
 breadcrumb: Collection Of Certificate
-collection_name: ininheritance
+collection_name: inheritance
 ---
