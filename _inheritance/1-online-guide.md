@@ -35,7 +35,7 @@ The procedure:
 
 **Important**: Please ensure that the identification numbers for Singapore IDs are correct, otherwise our system would indicate them as 'Invalid ID'.
 
-1.From Home Page - Click 'Inheritance' then [Online Application for Inheritance]
+1.From Home Page - Click 'Inheritance' then `Online Application for Inheritance`
 
 **STEP 1 : UNDERTAKING BY APPLICANT**
 
@@ -58,10 +58,10 @@ Law firms, consultancy firms and agencies are required to submit the Statutory D
 4.Click `Submit` to proceed.
 
 ------------
-<br/>If there is an existing record for the deceased ID entered above, all [ACTIVE CERTIFICATE LISTING] with [CERT Status] will be listed.
+<br/>If there is an existing record for the deceased ID entered above, all `ACTIVE CERTIFICATE LISTING` with `CERT Status` will be listed.
 <br/>Here, you may opt for:
-<br/>a) [Request for Variation / Amendment] or 
-<br/>b) [Request for Cert Extract]
+<br/>a) `Request for Variation / Amendment` or 
+<br/>b) `Request for Cert Extract`
 
 >Click on `View Detail` button to see details before clicking on `Request for Variation/Amendment` or `Request for Cert Extract`.
 
@@ -81,7 +81,7 @@ If there is no record, you will be prompted to enter the particulars of the dece
 - The names (as appear in NRIC or Birth Certificate) and
 - the identification numbers of the beneficiaries.
 
-8.To change the number of beneficiaries, use [Change Number of Inheritors/Previous] button. Click [Submit] to proceed.
+8.To change the number of beneficiaries, use `Change Number of Inheritors/Previous` button. Click `Submit` to proceed.
 
 9.The next screen will show the beneficiaries who get no share of the estate. This screen will not be shown if all of the beneficiaries gets a shares of the estate.
 
@@ -90,11 +90,11 @@ If there is no record, you will be prompted to enter the particulars of the dece
   - Members who are entitled to shares in the estate and the number of shares that each inheritor is entitled to,
   - those who get no share of the estate (if any).
  
-11.To make an application, click 'Request For Certificate'. Click 'Previous' to go back and edit.
+11.To make an application, click Re`quest For Certificate`. Click `Previous` to go back and edit.
 
 A pop-up box will appear for you to confirm the details in this page is correct.
 
-12. Click Ok to proceed or Cancel to go back to this page.
+12. Click `Ok` to proceed or Cancel to go back to this page.
 
 **STEP 5 : CONFIRMATION OF APPLICATION**
 
@@ -111,10 +111,10 @@ If you are coming personally to pay and collect, you must bring with you the fol
 
 This collection can only be made after 3 working days, during office hours only, at:
 
-Syariah Court,
-Family Link @ Lengkok Bahru
-8 Lengkok Bahru, #03-01
-Singapore 159052
+<br/>Syariah Court,
+<br/>Family Link @ Lengkok Bahru
+<br/>8 Lengkok Bahru, #03-01
+<br/>Singapore 159052
 
 **Important**: If there is an error in your application (e.g. errors in the names or ID) when it is:
 - Before you make your payment, you would be required to wait for the applicaiton to expire, if it is not expired and re-apply.
@@ -132,19 +132,19 @@ An application for Request for Cert Extract can only be made for certificates th
 It is highly recommended that you  clear your browsing history/cache first.
 Procedure:
 
-1. Click [Request for Cert Extract]on the menu.
-<br/> Applicant needs to fill the [Search] space in the on-line form and select the appropriate keyword to search for the Inheritance Certificate applied for.
-<br/>Click [Next]
+1. Click `Request for Cert Extract`on the menu.
+<br/> Applicant needs to fill the `Search` space in the on-line form and select the appropriate keyword to search for the Inheritance Certificate applied for.
+<br/>Click `Next`
  
-2. If there is no record of the deceased, applicant will be notified accordingly and will have the option to make an ]nline Application for Inheritance Certificate] (Please refer to Online Application for Inheritance Certificate Procedure).
+2. If there is no record of the deceased, applicant will be notified accordingly and will have the option to make an `Online Application for Inheritance Certificate` (Please refer to Online Application for Inheritance Certificate Procedure).
 <br/> If a record exists, applicant will be able to view it and to ascertain that the record is that of the certificate applied for.
-<br/> Applicant can then view the record by clicking the [View Detail] button or CERT number.
+<br/> Applicant can then view the record by clicking the `View Detail` button or CERT number.
 
 3. Applicant will also be able to view the Inheritance Certificate in detail.
-<br/> Click [Request for Cert Extract]
+<br/> Click `Request for Cert Extract`
 
-4. Upon clicking the [Request for Cert Extract] applicant will see the on-line form of Particulars of Applicant. All spaces in the form must be filled.
-<br/> Click [Next]
+4. Upon clicking the `Request for Cert Extract` applicant will see the on-line form of Particulars of Applicant. All spaces in the form must be filled.
+<br/> Click `Next`
 
 5. The message on the screen shows that the application has been received. The applicant is given a reference number.
 Please pay the amount shown on the screen. Payment may be made by NETS or cashcard. The applicant must come personally at the Syariah Court during office hours. The address is as follows:
