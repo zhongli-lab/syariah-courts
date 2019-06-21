@@ -35,7 +35,7 @@ The procedure:
 
 **Important**: Please ensure that the identification numbers for Singapore IDs are correct, otherwise our system would indicate them as 'Invalid ID'.
 
-1. From Home Page - Click 'Inheritance' then [Online Application for Inheritance]
+1.From Home Page - Click 'Inheritance' then [Online Application for Inheritance]
 
 **STEP 1 : UNDERTAKING BY APPLICANT**
 
@@ -48,14 +48,14 @@ You must provide and enter the mandatory information (marked with *) and you MUS
 
 Law firms, consultancy firms and agencies are required to submit the Statutory Declaration of the beneficiary, upon collection of the Inheritance Certificate.
 
-2. Select 'Disagree' or 'Agree' for undertaking.
+2.Select 'Disagree' or 'Agree' for undertaking.
 
 **STEP 2 : DECEASED DETAILS**
 
-3. Select Deceased identification's type (Singapore ID or foreign) 
+3.Select Deceased identification's type (Singapore ID or foreign) 
 <br/>Enter the identification number.
 
-4. Click `Submit` to proceed.
+4.Click `Submit` to proceed.
 
 ------------
 <br/>If there is an existing record for the deceased ID entered above, all [ACTIVE CERTIFICATE LISTING] with [CERT Status] will be listed.
@@ -73,24 +73,24 @@ If there is no record, you will be prompted to enter the particulars of the dece
 
 **STEP 3 : INHERITORS DETAILS**
 
-5. You have to select number of Male and Female beneficiaries related to the deceased and not to you, the applicant.
+5.You have to select number of Male and Female beneficiaries related to the deceased and not to you, the applicant.
 
-6. Click `Next` to proceed.
+6.Click `Next` to proceed.
 
-7. Enter the mandatory Male and Female beneficiaries particulars:
+7.Enter the mandatory Male and Female beneficiaries particulars:
 - The names (as appear in NRIC or Birth Certificate) and
 - the identification numbers of the beneficiaries.
 
-8. To change the number of beneficiaries, use [Change Number of Inheritors/Previous] button. Click [Submit] to proceed.
+8.To change the number of beneficiaries, use [Change Number of Inheritors/Previous] button. Click [Submit] to proceed.
 
-9. The next screen will show the beneficiaries who get no share of the estate. This screen will not be shown if all of the beneficiaries gets a shares of the estate.
+9.The next screen will show the beneficiaries who get no share of the estate. This screen will not be shown if all of the beneficiaries gets a shares of the estate.
 
-10. Click `Next`. The next screen will show
+10.Click `Next`. The next screen will show
   - Rejected members
   - Members who are entitled to shares in the estate and the number of shares that each inheritor is entitled to,
   - those who get no share of the estate (if any).
  
-11. To make an application, click 'Request For Certificate'. Click 'Previous' to go back and edit.
+11.To make an application, click 'Request For Certificate'. Click 'Previous' to go back and edit.
 
 A pop-up box will appear for you to confirm the details in this page is correct.
 
@@ -98,7 +98,7 @@ A pop-up box will appear for you to confirm the details in this page is correct.
 
 **STEP 5 : CONFIRMATION OF APPLICATION**
 
-13. Upon clicking `Ok` you will be given a reference number, e.g. 12/2007
+13.Upon clicking `Ok` you will be given a reference number, e.g. 12/2007
 <br/> For your reference only, you may print this acknowledgement page.
 
 **STEP 6 : COLLECTION OF CERTIFICATE**
