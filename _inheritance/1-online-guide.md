@@ -63,7 +63,7 @@ Law firms, consultancy firms and agencies are required to submit the Statutory D
 <br/>a) `Request for Variation / Amendment` or 
 <br/>b) `Request for Cert Extract`
 
->Click on `View Detail` button to see details before clicking on `Request for Variation/Amendment` or `Request for Cert Extract`.
+Click on `View Detail` button to see details before clicking on `Request for Variation/Amendment` or `Request for Cert Extract`.
 
 If there is no record, you will be prompted to enter the particulars of the deceased your details as the applicant in this form on the screen.
 
@@ -148,7 +148,6 @@ Procedure:
 
 5. The message on the screen shows that the application has been received. The applicant is given a reference number.
 Please pay the amount shown on the screen. Payment may be made by NETS or cashcard. The applicant must come personally at the Syariah Court during office hours. The address is as follows:
-
 <br/>Syariah Court,
 <br/>Family Link @ Lengkok Bahru
 <br/>8 Lengkok Bahru, #03-01
