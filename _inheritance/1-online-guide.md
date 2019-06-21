@@ -148,6 +148,7 @@ Procedure:
 
 5. The message on the screen shows that the application has been received. The applicant is given a reference number.
 Please pay the amount shown on the screen. Payment may be made by NETS or cashcard. The applicant must come personally at the Syariah Court during office hours. The address is as follows:
+<br/>
 <br/>Syariah Court,
 <br/>Family Link @ Lengkok Bahru
 <br/>8 Lengkok Bahru, #03-01
