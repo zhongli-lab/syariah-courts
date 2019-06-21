@@ -43,7 +43,7 @@ exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.j
 collections:
   who-we-are:
     output: true
-  ininheritance:
+  inheritance:
     output: true
   divorce:
     output: true
