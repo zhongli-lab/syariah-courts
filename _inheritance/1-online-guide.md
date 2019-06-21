@@ -24,7 +24,7 @@ From Home page - Click 'Inheritance' then 'On-line Trial Calculation'.
 2. Click `Submit` to proceed. You will need to select the number(s) of male and female Inheritors.
 3. Click `Submit` The screen will show the inheritors not entitled to any share of the deceased] estate
 4. Click `Submit` to go the next screen The screen will show the inheritors and the division of share each inheritor(s) get.
-5. You may `PRINT` or `Retry` to do another trial calculation.
+5. You may `Print` or `Retry` to do another trial calculation.
 
 ### B. Online Application for Inheritance Certificate - Procedure
 The calculation appearing in the Inheritance Certificate is based on the information on beneficiaries provided by the applicant. The names and the identity card numbers of the beneficiaries must be correct before proceeding to make th application.
@@ -90,11 +90,11 @@ If there is no record, you will be prompted to enter the particulars of the dece
   - Members who are entitled to shares in the estate and the number of shares that each inheritor is entitled to,
   - those who get no share of the estate (if any).
  
-11.To make an application, click Re`quest For Certificate`. Click `Previous` to go back and edit.
+11.To make an application, click `Request For Certificate`. Click `Previous` to go back and edit.
 
 A pop-up box will appear for you to confirm the details in this page is correct.
 
-12. Click `Ok` to proceed or Cancel to go back to this page.
+12.Click `Ok` to proceed or Cancel to go back to this page.
 
 **STEP 5 : CONFIRMATION OF APPLICATION**
 
