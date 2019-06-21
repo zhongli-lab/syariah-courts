@@ -20,11 +20,11 @@ The procedure is as follows:
 
 From Home page - Click 'Inheritance' then 'On-line Trial Calculation'.
 
-1. Enter the [Name] and [gender] of the person whose estate is to be divided.
-2. Click [Submit] to proceed. You will need to select the number(s) of male and female Inheritors.
-3. Click [Submit] The screen will show the inheritors not entitled to any share of the deceased] estate
-4. Click [Submit] to go the next screen The screen will show the inheritors and the division of share each inheritor(s) get.
-5. You may [PRINT] or [Retry] to do another trial calculation.
+1. Enter the `Name` and `gender` of the person whose estate is to be divided.
+2. Click `Submit` to proceed. You will need to select the number(s) of male and female Inheritors.
+3. Click `Submit` The screen will show the inheritors not entitled to any share of the deceased] estate
+4. Click `Submit` to go the next screen The screen will show the inheritors and the division of share each inheritor(s) get.
+5. You may `PRINT` or `Retry` to do another trial calculation.
 
 ### B. Online Application for Inheritance Certificate - Procedure
 The calculation appearing in the Inheritance Certificate is based on the information on beneficiaries provided by the applicant. The names and the identity card numbers of the beneficiaries must be correct before proceeding to make th application.
@@ -35,17 +35,16 @@ The procedure:
 
 **Important**: Please ensure that the identification numbers for Singapore IDs are correct, otherwise our system would indicate them as 'Invalid ID'.
 
-STEP 4 : REQUEST FOR CERTIFICATE
-
 1. From Home Page - Click 'Inheritance' then [Online Application for Inheritance]
 
 **STEP 1 : UNDERTAKING BY APPLICANT**
->You must provide and enter the mandatory information (marked with *) and you MUST be any one of the following:
->>1) A Beneficiary (Must be Muslim and above the age of 21 years at the time of application) or
->>2) A Law firm, on behalf of the beneficiary or
->>3) Consultancy firm / agencies, on behalf of the beneficiary or
->>4) MUIS Officers applying for an estate with Baitulmal shares or
->>5) The Court of Law
+
+You must provide and enter the mandatory information (marked with *) and you MUST be any one of the following:
+<br/> 1) A Beneficiary (Must be Muslim and above the age of 21 years at the time of application) or
+<br/> 2) A Law firm, on behalf of the beneficiary or
+<br/> 3) Consultancy firm / agencies, on behalf of the beneficiary or
+<br/> 4) MUIS Officers applying for an estate with Baitulmal shares or
+<br/> 5) The Court of Law
 
 Law firms, consultancy firms and agencies are required to submit the Statutory Declaration of the beneficiary, upon collection of the Inheritance Certificate.
 
@@ -56,20 +55,17 @@ Law firms, consultancy firms and agencies are required to submit the Statutory D
 3. Select Deceased identification's type (Singapore ID or foreign) 
 <br/>Enter the identification number.
 
-4. Click [Submit] to proceed.
+4. Click `Submit` to proceed.
 
 ------------
->If there is an existing record for the deceased ID entered above, all [ACTIVE CERTIFICATE LISTING] with [CERT Status] will be listed.
-<br/>Here, you may opt for
->>a) [Request for Variation / Amendment] or 
+<br/>If there is an existing record for the deceased ID entered above, all [ACTIVE CERTIFICATE LISTING] with [CERT Status] will be listed.
+<br/>Here, you may opt for:
+<br/>a) [Request for Variation / Amendment] or 
 <br/>b) [Request for Cert Extract]
 
->Click on [View Detail] button to see details before clicking on [Request for Variation/Amendment] or [Request for Cert Extract].
+>Click on `View Detail` button to see details before clicking on `Request for Variation/Amendment` or `Request for Cert Extract`.
 
-
-If there is no record, you will be prompted to enter
-the particulars of the deceased
-your details as the applicant in this form on the screen.
+If there is no record, you will be prompted to enter the particulars of the deceased your details as the applicant in this form on the screen.
 
 *Note: The relationship with the deceased is available if beneficiary is selected under the Category of Applicant. Consulting/Law Firm or Agency is available if Consulting/Law Firm or Agency/category is selected. Both fields would not active if other than the above two categories is selected.*
 
@@ -79,7 +75,7 @@ your details as the applicant in this form on the screen.
 
 5. You have to select number of Male and Female beneficiaries related to the deceased and not to you, the applicant.
 
-6. Click [Next] to proceed.
+6. Click `Next` to proceed.
 
 7. Enter the mandatory Male and Female beneficiaries particulars:
 - The names (as appear in NRIC or Birth Certificate) and
@@ -89,7 +85,7 @@ your details as the applicant in this form on the screen.
 
 9. The next screen will show the beneficiaries who get no share of the estate. This screen will not be shown if all of the beneficiaries gets a shares of the estate.
 
-10. Click [Next]. The next screen will show
+10. Click `Next`. The next screen will show
   - Rejected members
   - Members who are entitled to shares in the estate and the number of shares that each inheritor is entitled to,
   - those who get no share of the estate (if any).
@@ -102,7 +98,7 @@ A pop-up box will appear for you to confirm the details in this page is correct.
 
 **STEP 5 : CONFIRMATION OF APPLICATION**
 
-13. Upon clicking 'Ok' you will be given a reference number, e.g. 12/2007
+13. Upon clicking `Ok` you will be given a reference number, e.g. 12/2007
 <br/> For your reference only, you may print this acknowledgement page.
 
 **STEP 6 : COLLECTION OF CERTIFICATE**
